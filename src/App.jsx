@@ -2,7 +2,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import StackNavigaion from './Stack/StackNavigaion';
+import StackNavigaion from './Stack/StackNavigation';
 
 export default props => {
     return (
